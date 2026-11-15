@@ -1,0 +1,1 @@
+Epsilon-greedy bandit free-model aggregator: seeded exploration over top-rated eligible models, rating-ordered failover
